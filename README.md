@@ -10,7 +10,6 @@ I build practical products at the intersection of AI, developer tools, data, and
 - Co-founder and Community Lead at **The Origin Guild**, helping deliver 42+ meetups, workshops, and hackathons
 - Create technical explainers, product walkthroughs, and educational content
 - Contribute fixes and documentation to open-source projects
-- Lead organic growth and creative strategy for **PaPaPet**
 
 ## Tools and interests
 
