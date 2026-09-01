@@ -13,7 +13,7 @@ I build practical products at the intersection of AI, developer tools, data, and
 
 ## Tools and interests
 
-- **Product:** TypeScript, React, Next.js, JavaScript, HTML, CSS
+- **Product:** .NET 8, ASP.NET Core, TypeScript, React, Next.js, JavaScript, HTML, CSS
 - **Data:** Python, SQL, pandas, Jupyter, data analysis and visualization
 - **AI:** model and API integrations, content automation, evaluation, and agent workflows
 - **Web3:** developer education, ecosystem research, and community programs
@@ -22,6 +22,11 @@ I build practical products at the intersection of AI, developer tools, data, and
 ## Current focus
 
 I am focused on building smaller products that solve a clear problem, documenting the decisions behind them, and helping more people move from an idea to a working public release.
+
+## Current proof of work
+
+**[Indore .NET Open Source Build Day — Project Desk](https://github.com/Arun5768/indore-dotnet-build-day)**  
+A working ASP.NET Core application for team registration, practical challenge selection, public project submissions, and evidence-based scoring. It includes a six-hour workshop runbook, contributor pathway, Code of Conduct, smoke-test requests, and automated release builds—created as the first technical artifact for an open-source .NET program in Indore.
 
 ## Connect
 
