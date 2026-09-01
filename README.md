@@ -25,8 +25,8 @@ I am focused on building smaller products that solve a clear problem, documentin
 
 ## Current proof of work
 
-**[Indore .NET Open Source Build Day — Project Desk](https://github.com/Arun5768/indore-dotnet-build-day)**  
-A working ASP.NET Core application for team registration, practical challenge selection, public project submissions, and evidence-based scoring. It includes a six-hour workshop runbook, contributor pathway, Code of Conduct, smoke-test requests, and automated release builds—created as the first technical artifact for an open-source .NET program in Indore.
+**[Indore .NET Open Source Build Day — Project Desk](https://github.com/Arun5768/indore-dotnet-build-day)** · **[Live demo](https://indore-dotnet-build-day.arunchandel1780.workers.dev/)**  
+A working ASP.NET Core application for team registration, practical challenge selection, public project submissions, and evidence-based scoring. It includes a six-hour workshop runbook, contributor pathway, Code of Conduct, smoke-test requests, automated release builds, and a persistent Cloudflare D1 demo—created as the first technical artifact for an open-source .NET program in Indore.
 
 ## Connect
 
