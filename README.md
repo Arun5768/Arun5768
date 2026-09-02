@@ -2,11 +2,11 @@
 
 **Builder, community operator, and creative technologist**
 
-I build practical products at the intersection of AI, developer tools, data, and Web3. I also turn what I learn into workshops, open-source contributions, and clear technical content for builders.
+I enjoy taking a rough idea, building the first useful version, and sharing what I learned along the way. Most of my work sits around developer tools, data, AI, and Web3, with community workshops keeping me close to the people who actually use these products.
 
 ## What I do
 
-- Build and ship useful web products, internal tools, and AI-assisted workflows
+- Build and ship web products, internal tools, and repeatable workflows
 - Co-founder and Community Lead at **The Origin Guild**, helping deliver 42+ meetups, workshops, and hackathons
 - Create technical explainers, product walkthroughs, and educational content
 - Contribute fixes and documentation to open-source projects
@@ -15,13 +15,13 @@ I build practical products at the intersection of AI, developer tools, data, and
 
 - **Product:** .NET 8, ASP.NET Core, TypeScript, React, Next.js, JavaScript, HTML, CSS
 - **Data:** Python, SQL, pandas, Jupyter, data analysis and visualization
-- **AI:** model and API integrations, content automation, evaluation, and agent workflows
+- **AI:** model and API integrations, content tools, evaluation, and workflow design
 - **Web3:** developer education, ecosystem research, and community programs
 - **Deployment:** Cloudflare and Vercel
 
 ## Current focus
 
-I am focused on building smaller products that solve a clear problem, documenting the decisions behind them, and helping more people move from an idea to a working public release.
+Right now I am building focused products with a clear use case, documenting the decisions that shaped them, and helping more builders move from an idea to something they can share and improve.
 
 ## Selected projects
 
@@ -39,7 +39,7 @@ A practical data-quality learning lab built around tests, lineage, documentation
 
 ## How I build community
 
-I prefer small, verifiable outcomes over inflated attendance claims: public repositories, working deployments, completed tasks, documented blockers, and a clear follow-up path for contributors.
+For a workshop, the best outcome is not only a full room. I want people to leave with something concrete: a repository, a working deployment, a completed contribution, or a clear next step they can continue after the event.
 
 ## Connect
 
