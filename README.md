@@ -23,7 +23,7 @@ I build practical products at the intersection of AI, developer tools, data, and
 
 I am focused on building smaller products that solve a clear problem, documenting the decisions behind them, and helping more people move from an idea to a working public release.
 
-## Featured proof of work
+## Selected projects
 
 ### [Nibiru Debug Desk](https://github.com/Arun5768/nibiru-community-launchpad) · [Live product](https://nibiru-community-launchpad.arunchandel1780.workers.dev/)
 
