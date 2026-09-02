@@ -25,9 +25,9 @@ I am focused on building smaller products that solve a clear problem, documentin
 
 ## Featured proof of work
 
-### [Nibiru Community Launchpad](https://github.com/Arun5768/nibiru-community-launchpad) · [Live product](https://nibiru-community-launchpad.arunchandel1780.workers.dev/)
+### [Nibiru Debug Desk](https://github.com/Arun5768/nibiru-community-launchpad) · [Live product](https://nibiru-community-launchpad.arunchandel1780.workers.dev/)
 
-An independent, testnet-first onboarding product with live Nibiru RPC diagnostics, public address inspection, transaction verification, downloadable builder-proof receipts, a command-line verification script, and a reusable facilitator playbook. It turns a workshop promise into evidence another organizer can inspect and repeat.
+A read-only Nibiru EVM troubleshooting tool that diagnoses network health, public addresses, and transaction receipts, then produces a clean Markdown support report. It solves a common maintainer problem: incomplete bug reports without chain, block, or reproduction evidence.
 
 ### [Indore .NET Open Source Build Day — Project Desk](https://github.com/Arun5768/indore-dotnet-build-day) · [Live product](https://indore-dotnet-build-day.arunchandel1780.workers.dev/)
 
